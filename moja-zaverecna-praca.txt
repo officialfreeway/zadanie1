@@ -5,3 +5,4 @@ Fakulta prírodných vied
 Aplikovaná informatika
 Samuel Gergel
 Nazov práce: Interaktívna vizualizácia informácií
+Obhajoba práce bude v roku 2021
